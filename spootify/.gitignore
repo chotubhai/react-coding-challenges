@@ -11,6 +11,7 @@
 
 # production
 /build
+/spootify/src/config.js
 
 # misc
 .DS_Store
